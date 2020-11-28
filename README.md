@@ -2,7 +2,7 @@
 
 A Flutter application to know weather details in the current location and city as preferred by user.
 
-- [WeatherApp Demo](demo/weatherAppDemo.gif)
+- ![WeatherApp Demo](demo/weatherAppDemo.gif)
 
 ## Getting Started
 
